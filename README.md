@@ -100,10 +100,6 @@ Feel free to submit issues and enhancement requests!
 
 MIT License
 
-## Author
-
-[Your Name]
-
 ## Acknowledgments
 
 Thanks to the Rust community and tools like `lsof` that make this utility possible.
